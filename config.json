@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Live chat software to connect with customers on your website",
+    "subTitle":"Looking for a lightweight, customizable chat widget? Our free web chat system lets you add real-time support with just one JavaScript snippet. Manage multiple domains effortlessly and boost engagement! Visit www.chatgonow.com to get started.Live chat software to connect with customers on your website",
+    "avatarUrl":"https://www.chatgonow.com/static/img/logo.png",
+    "GMEEK_VERSION":"last",
+    "primerCSS":"<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Primer/21.1.1/primer.css'>",
+    "needComment":0
 }
